@@ -37,7 +37,7 @@ Task to Segment threat images and Morph them with Normal Baggage Images using Cl
 ![Results](https://user-images.githubusercontent.com/39687652/156980612-53c00469-4b0b-47b3-bc81-fe4a7f216112.jpeg)
 
 
-
+```
 --
 **Author - _`Harsh
              - harshris2314@gmail.com`_**
