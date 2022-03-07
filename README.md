@@ -28,7 +28,7 @@ Task to Segment threat images and Morph them with Normal Baggage Images using Cl
 
 
 ## Block Diagram
-Note: The part where Image is bieng rotated before being fused is not mentioned in block diagram although its being done in mask.py file 
+Note: The part where Image is bieng rotated by angle of 45 before being fused is not mentioned in block diagram although its being done in mask.py file 
 
 
 ![BlockDiagram](https://user-images.githubusercontent.com/39687652/156978845-c901d0b0-8237-4eca-90c1-c8eb8a82152c.jpeg)
